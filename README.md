@@ -39,6 +39,8 @@
           <img align="center" alt="windows" height="30" width="140" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">     
           </div>
 </div>
+
+![snake animation](https://github.com/rafascarabe/rafascarabe/blob/output/github-contribution-grid-snake.svg)
 	
 ##
 <div>    
@@ -61,6 +63,3 @@
   </a>
 </p>
 -->
-
-![snake animation](https://github.com/rafascarabe/rafascarabe/blob/output/github-contribution-grid-snake.svg)
-
