@@ -2,7 +2,12 @@
 <div>
 
 <!-- theme: midnight-purple -->   
-[![card](https://github-readme-stats.vercel.app/api?username=rafascarabe&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=rafascarabe&theme=midnight-purple&show_icons=true"
+        alt="Github Stats" width="49%"
+      />
 <img
         align="rigth"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rafascarabe&theme=midnight-purple&hide_border=false"
