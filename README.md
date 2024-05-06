@@ -11,7 +11,7 @@
 <img
         align="rigth"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rafascarabe&theme=midnight-purple&hide_border=false"
-        alt="Github Stats" width="47%"
+        alt="Github Stats" width="50%"
       />
 </div>
       
