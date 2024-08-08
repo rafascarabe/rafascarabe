@@ -15,18 +15,18 @@
       />
 </div>
      
-<div style= "display: inline-block" align="center">
+<div align="center">
 	<b>Skills </b>
-	<img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html -->
-	<img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
-	<img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- Js -->
-	<img align="center" alt="JAVA" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->
-	<img align="center" alt="React" height="30" width="80" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=blue"> <!-- React -->
-	<img align="center" alt="SQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-0000EF?style=for-the-badge&logo=mysql&logoColor=white"> <!-- sql -->
-	<img align="center" alt="NodeJS" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <!-- node js -->
-	<img align="center" alt="AWS" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!-- aws -->
-	<img align="center" alt="Jira" height="30" width="90" src="https://img.shields.io/badge/Jira-0000EF?style=for-the-badge&logo=jira&logoColor=white"> <!-- jira -->
-	<img align="center" alt="Notion" height="30" width="100" src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"> <!-- notion -->
+	<img align="center" alt="HTML" height="28" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html -->
+	<img align="center" alt="CSS" height="28" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
+	<img align="center" alt="Js" height="28" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- Js -->
+	<img align="center" alt="JAVA" height="28" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <!-- Java -->
+	<img align="center" alt="React" height="28" width="80" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=blue"> <!-- React -->
+	<img align="center" alt="SQL" height="28" width="100" src="https://img.shields.io/badge/MySQL-0000EF?style=for-the-badge&logo=mysql&logoColor=white"> <!-- sql -->
+	<img align="center" alt="NodeJS" height="28" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <!-- node js -->
+	<img align="center" alt="AWS" height="28" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!-- aws -->
+	<img align="center" alt="Jira" height="28" width="90" src="https://img.shields.io/badge/Jira-0000EF?style=for-the-badge&logo=jira&logoColor=white"> <!-- jira -->
+	<img align="center" alt="Notion" height="28" width="100" src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"> <!-- notion -->
 <!--
 <div align="center">
 	<b>Skills : </b>
@@ -48,14 +48,14 @@
 <br>
 <div style= "display: flex" align="center">
           <b>SO </b> 
-          <img align="center" alt="linux" height="30" width="80" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"> <!-- linux -->
-          <img align="center" alt="windows" height="30" width="80" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"> <!-- windows -->   
+          <img align="center" alt="linux" height="28" width="80" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"> <!-- linux -->
+          <img align="center" alt="windows" height="28" width="80" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"> <!-- windows -->   
 </div>
           <br>
 <div style= "display: flex" align="center">
           <b>IDEs </b> 
-          <img align="center" alt="IntelliJ" height="30" width="100" src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"> <!-- intelliJ -->
-          <img align="center" alt="VScode" height="30" width="140" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> <!-- VScode -->  
+          <img align="center" alt="IntelliJ" height="28" width="100" src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"> <!-- intelliJ -->
+          <img align="center" alt="VScode" height="28" width="140" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> <!-- VScode -->  
 </div>
 
 
