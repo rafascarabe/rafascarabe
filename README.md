@@ -15,7 +15,7 @@
       />
 </div>
      
-<div style= "display: inline-block">
+<div style= "display: inline-block" align="center">
 	<b>Skills </b>
 	<img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html -->
 	<img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
