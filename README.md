@@ -1,13 +1,14 @@
 ## Oieee, seja bem vindo(a) ao meu perfil!
 
 <p>📌 Estudante de ADS - no 3° semestre do curso</p>
-<p>Sou apaixonada por tecnologia e adoro aprender cada vez mais sobre o assunto, por isso, neste perfil, você encontrará alguns projetos nos quais tenho trabalhado, desde pequenos scripts até aplicações um pouco mais complexas. Abaixo seguem minhas skills, stats e infos de contato. Fique à vontade para explorar, contribuir e deixar seus comentários :D</p>
+<p>Sou apaixonada por tecnologia e adoro aprender cada vez mais sobre o assunto, por isso, neste perfil, você encontrará alguns projetos nos quais tenho trabalhado, desde pequenos scripts até aplicações um pouco mais complexas. Abaixo seguem minhas skills, stats e infos de contato. Fique à vontade para explorar, contribuir ou deixar um comentário :D </p>
 
 <div align="center">
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
