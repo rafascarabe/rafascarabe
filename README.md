@@ -25,22 +25,23 @@
 
 <br>
 
-<div>
 <!-- theme: midnight-purple -->   
-
-<img
+	
+<!-- 
+	<img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=rafascarabe&theme=midnight-purple&show_icons=true"
-        alt="Github Stats" width="47%"
+        alt="Github Stats" width="50%"
       />
+-->
+<div align="center"> 
 <img
-        align="rigth"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rafascarabe&theme=midnight-purple&hide_border=false"
         alt="Github Stats" width="50%"
       />
-</div>
+	</div>
 
-	
 ##
 <div align="center">    
   <a href = "rafascarabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!-- gmail -->
