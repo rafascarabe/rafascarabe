@@ -1,6 +1,6 @@
 ## Oieee, seja bem vindo(a) ao meu perfil!
 
-<p>📌 Estudante de ADS - no 4° semestre do curso</p>
+<p>📌 Formada em Análise e Desenvolvimento de Sistemas pela SPTECH</p>
 <p>Sou apaixonada por tecnologia e adoro aprender cada vez mais sobre o assunto, principalmente Front-End, por isso, neste perfil, você encontrará alguns projetos nos quais tenho trabalhado, desde pequenos scripts até aplicações um pouco mais complexas. Abaixo seguem minhas skills, stats e infos de contato. Fique à vontade para explorar, contribuir ou deixar um comentário :D </p>
 
 <div align="center">
